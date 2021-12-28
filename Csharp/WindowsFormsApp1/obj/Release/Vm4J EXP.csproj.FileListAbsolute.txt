@@ -1,0 +1,11 @@
+E:\VM4J\Csharp\WindowsFormsApp1\bin\Release\Vm4j_exp.exe.config
+E:\VM4J\Csharp\WindowsFormsApp1\bin\Release\Vm4j_exp.exe
+E:\VM4J\Csharp\WindowsFormsApp1\bin\Release\Vm4j_exp.pdb
+E:\VM4J\Csharp\WindowsFormsApp1\obj\Release\Vm4J EXP.csproj.AssemblyReference.cache
+E:\VM4J\Csharp\WindowsFormsApp1\obj\Release\Vm4J EXP.csproj.SuggestedBindingRedirects.cache
+E:\VM4J\Csharp\WindowsFormsApp1\obj\Release\Vm4j_exp.Form1.resources
+E:\VM4J\Csharp\WindowsFormsApp1\obj\Release\Vm4j_exp.Properties.Resources.resources
+E:\VM4J\Csharp\WindowsFormsApp1\obj\Release\Vm4J EXP.csproj.GenerateResource.cache
+E:\VM4J\Csharp\WindowsFormsApp1\obj\Release\Vm4J EXP.csproj.CoreCompileInputs.cache
+E:\VM4J\Csharp\WindowsFormsApp1\obj\Release\Vm4j_exp.exe
+E:\VM4J\Csharp\WindowsFormsApp1\obj\Release\Vm4j_exp.pdb
