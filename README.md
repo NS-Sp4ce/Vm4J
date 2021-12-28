@@ -12,6 +12,15 @@ A tool for detect vmware product log4j vulnerability.
 
 ![image-20211228094204633](README/img1.png)
 
+# Support
+
+- VMware HCX
+- VMware vCenter
+- VMware Workspace One (Will be add)
+- VMware NSX
+- VMware Horizon
+- VMware vRealize Operations Manager
+
 # Note
 
 1. This project use `Visual Studio 2022` and `.NET Framework 4.5`.
